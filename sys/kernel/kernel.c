@@ -98,7 +98,7 @@ void kernel_main() {
     clear_screen();
     set_color(WHITE, BLUE);
     
-    print("=== SimpleOS Kernel Loaded ===\n\n");
+    print("=== YOS Kernel Loaded ===\n\n");
     
     set_color(GREEN, BLACK);
     print("Welcome to YaoiOS!\n");
